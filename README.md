@@ -20,7 +20,7 @@ FoodBuddy is a food ordering website where users can browse and order food from 
     - Users can add their favorite food items to a favorites section for easy access in the future.
   
 
-![Home](URL_to_your_image)
+![Home](https://github.com/sahaniaditya/FoodBuddy/blob/eae0deb491fefc422e737780a432c3ccc97f0611/Screenshot%202024-07-09%20085223.png)
 
 ## Installation
 
