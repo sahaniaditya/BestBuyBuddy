@@ -18,6 +18,9 @@ FoodBuddy is a food ordering website where users can browse and order food from 
 
 5. **Favorites Section**
     - Users can add their favorite food items to a favorites section for easy access in the future.
+  
+
+![Home](URL_to_your_image)
 
 ## Installation
 
