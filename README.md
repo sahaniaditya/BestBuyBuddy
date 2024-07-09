@@ -60,8 +60,8 @@ To run this project locally, follow these steps:
 
 If you have any questions, feel free to reach out:
 
-- Email: [your.email@example.com](mailto:b22cs003@iitj.ac.in)
-- GitHub: [yourusername](https://github.com/sahaniaditya)
+- Email: [b22cs003@iitj.ac.in](mailto:b22cs003@iitj.ac.in)
+- GitHub: [sahaniaditya](https://github.com/sahaniaditya)
 
 ---
 
